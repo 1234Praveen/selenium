@@ -28,8 +28,14 @@ public class GuruTask {
 	action.dragAndDrop(s3, d3).perform();
 	WebElement txtsentc= driver.findElement(By.xpath("//a[contains(text(),'Perfect!')]"));
 	String text = txtsentc.getText();
+
+	
 	System.out.println(text);
-}
+
+	System.out.println("12");
+ 
+ }
+ 
 	
 	
 	
