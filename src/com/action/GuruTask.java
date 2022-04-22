@@ -32,7 +32,7 @@ public class GuruTask {
 	
 	System.out.println(text);
 
-	System.out.println("12");
+	
  
  }
  
